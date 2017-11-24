@@ -11,5 +11,5 @@ bbs.loorin.com
 Xiaomi gucci (红米note双卡4g)
 
 
-
+moke 5.1
 
