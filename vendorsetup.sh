@@ -1,5 +1,5 @@
 
 
-add_lunch_combo lineage_gucci-userdebug
+add_lunch_combo cm_gucci-userdebug
 
 
